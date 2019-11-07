@@ -8,5 +8,5 @@ I integraded Piano key sounds each time yu click an arrow Kay, a random sound wi
  - Javascript 
  - Photoshop
  
- ![image](https://drive.google.com/file/d/1rAnLr6g4oRTQ9l7wJWWxCagtkGWaYVKK/view?usp=sharing)
+ ![image](https://drive.google.com/file/d/1rAnLr6g4oRTQ9l7wJWWxCagtkGWaYVKK)
  ![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
